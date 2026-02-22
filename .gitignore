@@ -42,5 +42,3 @@ dist/
 
 # Ignore notebooks
 notebooks/
-
-configs/
