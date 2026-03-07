@@ -92,7 +92,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: processed-data
-          path: data/processed/featured_house_data.csv
+          path: data/processed/
 
       - name: Set up MLFlow
         run: |
